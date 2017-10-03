@@ -1,0 +1,1 @@
+This Folder contains questions from Hackerrank and Leetcode. Each code has an associated pdf file containing the problem statemet. The code also mentions the difficulty level as mentioned on source website.
