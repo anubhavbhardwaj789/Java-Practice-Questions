@@ -18,6 +18,8 @@ Example 1:
 Input: tasks = ["A","A","A","B","B","B"], n = 2
 Output: 14
 Explanation: A -> idel -> idel -> A -> idel -> idel -> A -> B -> idel -> idel -> B  idel -> idel -> B
+
+DIFFICULTY LEVEL : Easy
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 */
 
